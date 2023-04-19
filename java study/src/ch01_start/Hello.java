@@ -16,10 +16,12 @@ public class Hello {
 		// 코드라인 삭제(Delete Line)
 		// 단축키 [Ctrl + D]
 		System.out.println("오늘은 화요일");
-
+		// 테스트용 주석
 		// 실행 취소의 취소(Redo)
 		// 단축키 [Ctrl + Y]
 		System.out.println();
+
+		
 		
 		
 	}
