@@ -20,7 +20,7 @@ public class Hello {
 		// 실행 취소의 취소(Redo)
 		// 단축키 [Ctrl + Y]
 		System.out.println();
- 		// 테스트 입니다 
+
 		
 		
 		
